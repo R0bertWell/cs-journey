@@ -16,8 +16,6 @@ public class LongestPalindromicSubstring {
             if (longer.length() > longestPalin.length()) {
                 longestPalin = longer;
             }
-
-            i++;
         }
 
         return longestPalin;
