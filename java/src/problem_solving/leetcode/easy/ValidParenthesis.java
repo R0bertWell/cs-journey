@@ -1,4 +1,4 @@
-package problem_solving.leetcode;
+package problem_solving.leetcode.easy;
 
 
 import dsa.stacks.StackWithLinkedList;

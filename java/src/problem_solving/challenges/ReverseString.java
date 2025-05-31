@@ -1,4 +1,4 @@
-package problem_solving.leetcode;
+package problem_solving.challenges;
 
 public class ReverseString {
     public static String reverseString(String s){
