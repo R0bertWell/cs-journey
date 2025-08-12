@@ -27,7 +27,7 @@ public class BinaryTreeLevelOrderTraversal {
                 if(curNode.right != null) tempQueue.add(curNode.right);
             }
             answer.add(curList);
-            queue = tempQueue;
+            queue = tempQueue; // teste
         }
 
         return answer;
